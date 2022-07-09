@@ -2,7 +2,7 @@
 
 **Billy Aung**
 
-- [Profile](https://https://github.com/billyaungmyint "Billy Aung Myint")
+- [Profile](https://github.com/billyaungmyint "Billy Aung Myint")
 - [Email](mailto:billy@billyaungmyint.com?subject=Hi "Hi! from Github!")
 - [Website](https://billyaungmyint.com "https://billyaungmyint.com")
 

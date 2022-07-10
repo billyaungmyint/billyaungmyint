@@ -79,7 +79,6 @@ My current projects and learnings
           <li> Shiny </li>
         </ul>
     </ul>
-    <br />
   </div>
 </details>
 

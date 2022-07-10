@@ -10,6 +10,7 @@
   <samp>
     <h2 align="center">😎 you can reach me by:</h2>
     <p align="center">
+      <p>Checkout my personal site ---> <a href="https://billyaungmyint.com" target="_blank" rel="noopener noreferrer">https://billyaungmyint.com</a>.</p>
       <br/>
       <a href="https://www.linkedin.com/in/billyaungmyint/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -34,7 +35,7 @@
 <details>
   <summary>🧮 about me</summary>
   <br />
-18+ years of experience in IT with 8 years in Banking. Experienced in 
+18+ years of experience in IT with 8 years in Banking and Finance. Experienced in 
   <div>
     <p align="center">
       <ul>

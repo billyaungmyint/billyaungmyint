@@ -16,7 +16,7 @@
     <h2 align="center">😎 you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/billyaungmyint/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://fb.com/billyaungmyint" target="blank"><img align="center"
@@ -144,7 +144,7 @@
   <summary>📈 Activity Graph</summary>
   <br/>
   <h2 align="center"> my current activity </h2>
-<a href="https://github.com/billyaungmyint/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=billyaungmyint&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/billyaungmyint/github-readme-activity-graph"><img alt="Billy Aung Myint's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=billyaungmyint&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
 
 ------

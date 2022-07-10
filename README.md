@@ -39,7 +39,7 @@
     <p align="center">
       <ul>
         <li> Windows </li>
-        <li> Linux <li>
+        <li> Linux </li>
         <li> Solaris </li>
         <li> Networking (certified CCNA) </li>
         <li> Python </li>

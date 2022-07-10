@@ -54,7 +54,7 @@
 </details>
 
 <details>
-  <summary>currently working on..</summary>
+  <summary>😎 currently working on..</summary>
   <br />
 My current projects and learnings
   <div>

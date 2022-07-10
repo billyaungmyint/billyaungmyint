@@ -53,6 +53,36 @@
   </div>
 </details>
 
+<details>
+  <summary>currently working on..</summary>
+  <br />
+My current projects and learnings
+  <div>
+    <p align="center">
+      <ul>
+        <li> Python </li>
+        <ul>
+          <li> Numpy </li>
+          <li> Pandas </li>
+          <li> Matplotlib </li>
+          <li> Seaborn </li>
+          <li> Scikit-learn </li>
+          <li> Pytorch </li>
+          <li> Spacy </li>
+          <li> Streamlit </li>
+        </ul>
+        <li> R </li>
+        <ul>
+          <li> Dplyr </li>
+          <li> GGplo2 </li>
+          <li> Shiny </li>
+        </ul>
+    </ul>
+    <br />
+  </div>
+</details>
+
+
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>

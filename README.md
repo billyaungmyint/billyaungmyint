@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/billyaungmyint/billyaungmyint/blob/main/resources/img/waving.gif">, I'm Billy Aung Myint</h1>
-<h4 align="center">an IT professional with 18+ years experience in Windows , Linux , Oracle DB , SQL Server , Python , R , Bash</h4>
+<h4 align="center">an IT professional with 18+ years , 8 of them in Banking and Finance. Experienced in Windows , Linux , Oracle DB , SQL Server , Python , R , Bash</h4>
 </div>
 
 

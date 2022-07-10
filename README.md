@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/billyaungmyint/billyaungmyint/blob/main/resources/img/waving.gif">, I'm Billy Aung Myint</h1>
-<h4 align="center">an IT professional with 18+ years , 8 of them in Banking and Finance. Experienced in Windows , Linux , Oracle DB , SQL Server , Python , R , Bash</h4>
+<h1 align="center">Hi <img width="35" src="https://github.com/billyaungmyint/billyaungmyint/blob/main/resources/img/waving.gif">, I'm <a href="https://billyaungmyint.com" target="_blank" rel="noopener noreferrer">Billy Aung Myint</a></h1>
+<h4 align="center">a Singapore based IT professional with 18+ years , 8 of them in Banking and Finance. Experienced in Windows , Linux , Oracle DB , SQL Server , Python , R , Bash</h4>
 </div>
 
 
@@ -10,7 +10,7 @@
   <samp>
     <h2 align="center">😎 you can reach me by:</h2>
     <p align="center">
-      <p>Checkout my personal site ---> <a href="https://billyaungmyint.com" target="_blank" rel="noopener noreferrer">https://billyaungmyint.com</a>.</p>
+      <p>Checkout my personal site ---> <a href="https://billyaungmyint.com" target="_blank" rel="noopener noreferrer">https://billyaungmyint.com</a></p>
       <br/>
       <a href="https://www.linkedin.com/in/billyaungmyint/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"

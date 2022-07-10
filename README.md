@@ -33,15 +33,23 @@
 
 <details>
   <summary>🧮 about me</summary>
+  <br />
 18+ years of experience in IT with 8 years in Banking. Experienced in 
   <div>
     <p align="center">
-      <br />
       <ul>
-        <li> Oracle DB </li>
-      <li> Microsoft SQL Server Data warehouse <li> 
-        Windows , Linux , BASH , Python , R , Project Management , Change Management , UAT Testing.
+        <li> Windows </li>
+        <li> Linux <li>
+        <li> Solaris </li>
+        <li> Networking (certified CCNA) </li>
+        <li> Python </li>
+        <li> R </li>
+        <li> Oracle Database (certified OCA) </li>
+        <li> UAT Testing </li>
+        <li> Change Management </li>
+        <li> Project Management </li>
     </ul>
+    <br />
   </div>
 </details>
 

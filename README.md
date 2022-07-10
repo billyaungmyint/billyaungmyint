@@ -37,7 +37,11 @@
   <div>
     <p align="center">
       <br />
-    Oracle DB, Microsoft SQL Server Data warehouse , Windows , Linux , BASH , Python , R , Project Management , Change Management , UAT Testing.
+      <ul>
+        <li> Oracle DB </li>
+      <li> Microsoft SQL Server Data warehouse <li> 
+        Windows , Linux , BASH , Python , R , Project Management , Change Management , UAT Testing.
+    </ul>
   </div>
 </details>
 

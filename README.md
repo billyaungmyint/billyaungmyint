@@ -61,7 +61,7 @@ My current projects and learnings
   <div>
     <p align="center">
       <ul>
-        <li> Python </li>
+        <li> <a href="https://github.com/billyaungmyint/python" target="_blank" rel="noopener noreferrer">Python</a>.</p> </li>
         <ul>
           <li> Numpy </li>
           <li> Pandas </li>
@@ -72,7 +72,7 @@ My current projects and learnings
           <li> Spacy </li>
           <li> Streamlit </li>
         </ul>
-        <li> R </li>
+        <li><a href="https://github.com/billyaungmyint/R" target="_blank" rel="noopener noreferrer">R</a>.</p></li>
         <ul>
           <li> Dplyr </li>
           <li> GGplo2 </li>

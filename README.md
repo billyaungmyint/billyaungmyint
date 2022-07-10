@@ -33,7 +33,12 @@
 
 <details>
   <summary>🧮 about me</summary>
-18+ years of experience in IT with 8 years in Banking. Exposure to Oracle DB, Microsoft SQL Server Data warehouse , Windows , Linux , BASH , Python , R , Project Management , Change Management , UAT Testing.
+18+ years of experience in IT with 8 years in Banking. Experienced in 
+  <div>
+    <p align="center">
+      <br />
+    Oracle DB, Microsoft SQL Server Data warehouse , Windows , Linux , BASH , Python , R , Project Management , Change Management , UAT Testing.
+  </div>
 </details>
 
 <details> 

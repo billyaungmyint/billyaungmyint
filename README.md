@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/billyaungmyint/billyaungmyint/blob/main/resources/img/waving.gif">, I'm <a href="https://billyaungmyint.com" target="_blank" rel="noopener noreferrer">Billy Aung Myint</a></h1>
+<h1 align="center">Hi<img width="35" src="https://github.com/billyaungmyint/billyaungmyint/blob/main/resources/img/waving.gif">, I'm <a href="https://billyaungmyint.com" target="_blank" rel="noopener noreferrer">Billy Aung Myint</a></h1>
 <h4 align="center">a Singapore-based IT professional with 18+ years of experienced in IT , 8 of them in Banking and Finance. Has knowledge in Windows , Linux , Solaris , Oracle DB , SQL Server , Python , R , Bash , Projects , UAT , Change Management , Deployments , Audit , Security.</h4>
 </div>
 

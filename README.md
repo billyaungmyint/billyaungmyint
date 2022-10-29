@@ -25,7 +25,7 @@
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
     <a href="https://www.youtube.com/@billyaungmyint" target="blank"><img align="center"
-         alt="azzar" height="30"/></a>
+         alt="Youtube" height="30"/></a>
     
     </p>
   <p align="center">     

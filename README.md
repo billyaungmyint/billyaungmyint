@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi , I'm <a href="https://billyaungmyint.com" target="_blank" rel="noopener noreferrer">Billy Aung Myint</a></h1>
-<h4 align="center">A Singapore-based IT professional with 18+ years of experience in IT , 8 of them in Banking and Finance. Has knowledge in Windows , Linux , Solaris , Oracle DB , SQL Server , Python , R , Bash , Projects , UAT , Change Management , Deployments , Audit , Security.</h4>
+<h4 align="center">A Singapore-based IT professional with 20+ years of experience in IT , 10 of them in Banking and Finance. Has knowledge in Windows , Linux , Solaris , Oracle DB , SQL Server , Python , R , Bash , Projects , UAT , Change Management , Deployments , Audit , Security.</h4>
 </div>
 
 
